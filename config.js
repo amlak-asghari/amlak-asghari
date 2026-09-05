@@ -1,1 +1,2 @@
-
+window.SUPABASE_URL = 'https://YOUR-PROJECT.supabase.co';
+window.SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_YOUR_KEY';
